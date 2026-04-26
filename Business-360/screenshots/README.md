@@ -1,88 +1,183 @@
-# 💼 Business 360 | Tableau Dashboard
+# 💼 Business 360 Analytics
 
-A premium Tableau dashboard built to provide a 360-degree executive view of business performance across sales, profitability, customers, products, and regional trends.
+A professional Tableau analytics project designed to evaluate business performance across sales, profitability, customer segments, product categories, and regional operations.
 
-This project demonstrates how interactive dashboards can help leadership teams monitor KPIs, identify growth opportunities, and drive data-backed strategic decisions.
-
----
-
-# 🎯 Project Objective
-
-To design an executive business intelligence dashboard that enables stakeholders to:
-
-- Track overall sales and profitability  
-- Compare region-wise business performance  
-- Analyze customer segment contribution  
-- Monitor category and product trends  
-- Identify underperforming areas  
-- Support faster strategic decisions through data
+This dashboard helps business leaders, managers, and analysts understand revenue movement, identify profitable growth areas, optimize operations, and support data-driven strategic decisions.
 
 ---
 
-# 📊 Dashboard Preview
+# 📌 Business Objective
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="950">
-</p>
+Organizations need clear visibility into sales performance, margin drivers, customer contribution, and regional trends to improve profitability and accelerate growth.
 
----
+This dashboard enables stakeholders to:
 
-# 📌 Key KPIs Tracked
-
-- Total Sales  
-- Total Profit  
-- Profit Margin %  
-- Regional Contribution  
-- Top Categories  
-- Customer Segment Performance  
-- Monthly / Yearly Trends  
+- Analyze overall sales and profit performance  
+- Monitor region-wise business growth  
+- Compare category and product profitability  
+- Identify high-value customer segments  
+- Detect weak-performing markets  
+- Support strategic planning using analytics
 
 ---
 
-# 🔍 Key Insights Generated
+# 📊 Dashboard Coverage
 
-### 📈 Sales Performance
-Identified top-performing periods and revenue growth patterns across time.
+## Business Performance Analytics
 
-### 🌍 Regional Analysis
-Compared regions/states to highlight high-growth and low-profit areas.
+- Sales vs Profit overview  
+- Monthly trend analysis  
+- State-wise performance map  
+- Product category contribution  
+- Segment profitability analysis  
 
-### 👥 Customer Segments
-Measured contribution from Consumer, Corporate, and Home Office segments.
+## Operational Insights
 
-### 🛍 Category Trends
-Tracked category-wise sales and profitability to optimize portfolio mix.
-
-### 💰 Margin Visibility
-Highlighted areas where revenue was high but margins remained weak.
-
----
-
-# 💡 Business Recommendations
-
-- Expand focus in high-margin regions  
-- Improve pricing strategy for low-margin categories  
-- Launch campaigns during peak-performing months  
-- Strengthen retention for top customer segments  
-- Review cost structure in weak-profit geographies  
+- Ship mode performance  
+- Sub-category ranking  
+- Consumer vs Corporate comparison  
+- Regional sales mix  
+- Profit leakage detection  
 
 ---
 
-# 🛠 Tools Used
+# 🔍 Key Insights (Based on Dashboard)
+
+## 💰 Profit vs Sales Insights
+
+- **Copiers** generated one of the highest profit contributions despite lower order volume.  
+- **Tables** showed strong sales but negative profit in multiple transactions.  
+- **Machines** had high ticket sales but inconsistent profitability.  
+- Office Supplies delivered stable profits with recurring demand.
+
+## 🌍 State / Region Insights
+
+- **California** contributed the highest overall sales and profit.  
+- **Texas** showed high sales volume but weak profitability.  
+- **New York** performed strongly across both revenue and margin.  
+- Several mid-tier states showed growth potential with lower competition.
+
+## 📈 Monthly Trend Insights
+
+- Profit spiked sharply during year-end months (Nov–Dec), indicating seasonal buying behavior.  
+- Mid-year months showed flatter performance, suggesting slower demand cycles.  
+- Sudden dips in certain months may indicate discounting or cost spikes.
+
+## 🛍 Category / Sub-Category Insights
+
+- **Technology** was the strongest revenue-driving category.  
+- **Furniture** had margin pressure despite good sales volume.  
+- **Phones, Accessories, Copiers** were among top-performing sub-categories.  
+- **Tables and Bookcases** underperformed on profitability.
+
+## 👥 Customer Segment Insights
+
+- **Consumer segment** generated the largest share of sales.  
+- **Corporate segment** delivered stable repeat revenue.  
+- **Home Office** segment was smaller but potentially higher-margin.
+
+## 🚚 Shipping Insights
+
+- Same Day / Express shipping likely increased servicing cost.  
+- Standard shipping aligned better with margin protection.
+
+---
+
+# 💡 Specific Recommendations (Dashboard Driven)
+
+## Revenue Growth
+
+- Increase focus on **California, New York, and high-growth states** through targeted campaigns.  
+- Expand Technology category bundles to maximize top-performing demand.  
+- Use year-end seasonal patterns to plan aggressive Q4 promotions.
+
+## Margin Improvement
+
+- Review pricing and discount structure for **Tables** and low-margin Furniture items.  
+- Reduce operational cost on loss-making states like Texas.  
+- Promote Copiers and Phones where margins are strongest.
+
+## Regional Strategy
+
+- Build market expansion plans for mid-performing profitable states.  
+- Reassess underperforming geographies with high cost-to-serve ratios.
+
+## Product Portfolio
+
+- Rationalize underperforming SKUs in Furniture.  
+- Increase inventory readiness for fast-moving Technology items.  
+- Bundle Accessories with Phones / Devices for cross-sell revenue.
+
+## Customer Strategy
+
+- Create loyalty campaigns for Consumer segment.  
+- Offer contract pricing for Corporate clients.  
+- Launch premium solutions for Home Office customers.
+
+## Operations
+
+- Encourage Standard shipping where feasible.  
+- Use demand forecasting before Nov-Dec peak season.  
+- Create monthly margin monitoring dashboard for leadership.
+
+---
+
+# 🛠 Tools & Skills Used
 
 - Tableau Desktop  
 - Tableau Public  
+- Calculated Fields  
 - Dashboard Design  
+- Business Intelligence  
 - KPI Reporting  
-- Trend Analysis  
+- Interactive Filters  
+- Data Visualization  
 - Executive Reporting  
+- Trend Analysis  
 
 ---
 
-# 📂 Folder Structure
+# 📸 Dashboard Screenshots
 
-```text
-Business-360/
- ├── screenshots/
- │   └── business-360.jpg
- └── README.md
+## 💼 Business 360 Executive Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="900">
+</p>
+
+Provides a complete view of sales, profit, state performance, category trends, and monthly business movement.
+
+---
+
+# 🎯 Business Impact
+
+This dashboard helps stakeholders:
+
+- Improve pricing decisions  
+- Detect loss-making categories  
+- Focus on profitable regions  
+- Increase seasonal planning accuracy  
+- Optimize customer growth strategy  
+- Enable smarter executive decisions
+
+---
+
+# 🚀 What This Project Demonstrates
+
+- Executive dashboard creation  
+- Profitability analytics  
+- Regional performance reporting  
+- Category management insights  
+- KPI storytelling  
+- Strategic business recommendations  
+- Decision intelligence
+
+---
+
+# 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
+- GitHub: https://github.com/shauryananda3
+
+---
