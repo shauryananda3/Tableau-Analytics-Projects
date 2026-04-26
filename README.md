@@ -1,8 +1,8 @@
 # 📊 Tableau Analytics Projects Portfolio
 
-A premium portfolio of interactive Tableau dashboards built across multiple industries including business intelligence, retail, entertainment, environment, travel, sports, and publishing analytics.
+A premium collection of interactive Tableau dashboards built across multiple industries including business intelligence, retail, entertainment, environment, sports, travel, and publishing analytics.
 
-This repository demonstrates dashboard development, KPI reporting, storytelling, trend analysis, and decision-support visualization using Tableau.
+This repository showcases practical dashboarding capabilities including KPI reporting, trend analysis, storytelling, and executive-level business insights using Tableau.
 
 ---
 
@@ -12,7 +12,7 @@ This repository demonstrates dashboard development, KPI reporting, storytelling,
 ✅ Cross-Industry Analytics Portfolio  
 ✅ Executive KPI Reporting  
 ✅ Business Storytelling with Data  
-✅ Advanced Dashboard Design  
+✅ Dashboard Design Excellence  
 ✅ Strong Data Visualization Skills
 
 ---
@@ -46,7 +46,7 @@ Executive dashboard for sales, profitability, regional trends, and customer perf
 ## ⚽ UEFA Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/UEFA-Analytics/screenshots/uefa.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/UEFA-Analytics/screenshots/uefa-champions-league.jpg" width="900">
 </p>
 
 Football analytics dashboard covering club performance, goals, rankings, and player trends.
@@ -56,7 +56,7 @@ Football analytics dashboard covering club performance, goals, rankings, and pla
 ## ✈️ TripAdvisor Insights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/TripAdvisor-Insights/screenshots/tripadvisor.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/TripAdvisor-Insights/screenshots/trip-advisor.jpg" width="900">
 </p>
 
 Travel analytics dashboard exploring ratings, hotel trends, customer segments, and satisfaction.
@@ -83,7 +83,39 @@ Retail dashboard analyzing sales, profit, quantity, category performance, and st
 
 ---
 
-# 📂 Complete Project Portfolio
+## 🎞 IMDb Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/IMDb-Analytics/screenshots/imdb.jpg" width="900">
+</p>
+
+Movie analytics dashboard analyzing ratings, genres, release patterns, and audience trends.
+
+---
+
+## 📚 GoodReads Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/GoodReads-Analytics/screenshots/goodreads.jpg" width="900">
+</p>
+
+Book analytics dashboard exploring authors, ratings, categories, and publishing trends.
+
+---
+
+# 📂 Additional Dashboards
+
+## 📺 Friends Analytics
+
+TV series dashboard analyzing episodes, seasons, ratings, and popularity trends.
+
+## 🌍 Global CO2 Emissions
+
+Environmental dashboard analyzing emissions by country, population, and climate trends.
+
+---
+
+# 📋 Complete Project Portfolio
 
 | Project Name | Domain |
 |-------------|--------|
