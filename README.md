@@ -1,6 +1,6 @@
 # 📊 Tableau Analytics Projects Portfolio
 
-A premium collection of interactive Tableau dashboards built across multiple industries including business intelligence, retail, entertainment, environment, and consumer analytics.
+A premium collection of Interactive Tableau dashboard portfolio featuring business intelligence, retail, entertainment and environmental analytics.
 
 This repository showcases practical dashboarding capabilities including KPI reporting, trend analysis, storytelling, and executive-level business insights.
 
