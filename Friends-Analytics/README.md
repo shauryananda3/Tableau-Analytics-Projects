@@ -1,4 +1,4 @@
-# ☕ Friends Analytics
+# ☕ Friends TV Show Insights
 
 A professional Tableau analytics project designed to evaluate episode ratings, season performance, cast appearances, audience voting trends, and popularity insights from the iconic TV show *Friends*.
 
