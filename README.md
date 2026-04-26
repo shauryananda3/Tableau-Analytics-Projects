@@ -104,4 +104,3 @@ Environmental dashboard analyzing emissions by country, population, per-capita i
 
 ---
 
-# ⭐ Explore the dashboards and connect for opportunities.
