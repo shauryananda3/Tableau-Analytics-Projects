@@ -36,7 +36,7 @@ This repository showcases practical dashboarding capabilities including KPI repo
 ## 💼 Business 360
 
 <p align="center">
-  <img src="Business-360/screenshots/business-360.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="900">
 </p>
 
 Executive dashboard for sales, profitability, regional performance, and customer trends.
@@ -46,7 +46,7 @@ Executive dashboard for sales, profitability, regional performance, and customer
 ## 🛒 Superstore Insights
 
 <p align="center">
-  <img src="Superstore-Insights/screenshots/superstore-insights.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Superstore-Insights/screenshots/superstore-insights.jpg" width="900">
 </p>
 
 Retail dashboard analyzing sales, profit, quantity, state trends, and category performance.
@@ -56,7 +56,7 @@ Retail dashboard analyzing sales, profit, quantity, state trends, and category p
 ## 🎬 Netflix Content Analytics
 
 <p align="center">
-  <img src="Netflix-Content-Analytics/screenshots/netflix.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Netflix-Content-Analytics/screenshots/netflix.jpg" width="900">
 </p>
 
 Tracks movies vs TV shows, ratings, genres, release trends, and content distribution.
@@ -66,7 +66,7 @@ Tracks movies vs TV shows, ratings, genres, release trends, and content distribu
 ## 🌍 Global CO2 Emissions
 
 <p align="center">
-  <img src="Global-CO2-Emissions/screenshots/global-co2-emissions.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Global-CO2-Emissions/screenshots/global-co2-emissions.jpg" width="900">
 </p>
 
 Analyzes emissions by country, population, per-capita contribution, and global climate trends.
