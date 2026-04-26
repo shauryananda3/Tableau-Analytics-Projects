@@ -1,20 +1,21 @@
-# 💼 Business 360 | Tableau Executive Dashboard
+# 💼 Business 360 | Tableau Dashboard
 
-An executive-level Tableau dashboard designed to monitor overall business performance across sales, profitability, regional trends, product categories, and customer insights.
+A premium Tableau dashboard built to provide a 360-degree executive view of business performance across sales, profitability, customers, products, and regional trends.
 
-This project demonstrates how interactive dashboards can support leadership decision-making through KPI tracking and trend analysis.
+This project demonstrates how interactive dashboards can help leadership teams monitor KPIs, identify growth opportunities, and drive data-backed strategic decisions.
 
 ---
 
 # 🎯 Project Objective
 
-To build a centralized business intelligence dashboard that enables stakeholders to:
+To design an executive business intelligence dashboard that enables stakeholders to:
 
-- Monitor revenue and profit performance
-- Compare regional business growth
-- Analyze category-wise contribution
-- Track customer trends
-- Support strategic decisions through real-time insights
+- Track overall sales and profitability  
+- Compare region-wise business performance  
+- Analyze customer segment contribution  
+- Monitor category and product trends  
+- Identify underperforming areas  
+- Support faster strategic decisions through data
 
 ---
 
@@ -31,46 +32,46 @@ To build a centralized business intelligence dashboard that enables stakeholders
 - Total Sales  
 - Total Profit  
 - Profit Margin %  
-- Regional Revenue Contribution  
-- Top Performing Categories  
+- Regional Contribution  
+- Top Categories  
 - Customer Segment Performance  
-- Trend Over Time  
+- Monthly / Yearly Trends  
 
 ---
 
 # 🔍 Key Insights Generated
 
-### 📈 Revenue Trends
-Identified high-performing months and seasonal sales peaks.
+### 📈 Sales Performance
+Identified top-performing periods and revenue growth patterns across time.
 
-### 🌎 Regional Performance
-Compared profitability across states / regions to identify growth opportunities.
-
-### 🛍 Product Analysis
-Highlighted top-selling and underperforming categories.
+### 🌍 Regional Analysis
+Compared regions/states to highlight high-growth and low-profit areas.
 
 ### 👥 Customer Segments
-Analyzed contribution from consumer, corporate, and home office segments.
+Measured contribution from Consumer, Corporate, and Home Office segments.
 
-### 💰 Profitability Monitoring
-Tracked areas where high sales did not translate into strong profits.
+### 🛍 Category Trends
+Tracked category-wise sales and profitability to optimize portfolio mix.
+
+### 💰 Margin Visibility
+Highlighted areas where revenue was high but margins remained weak.
 
 ---
 
 # 💡 Business Recommendations
 
-- Expand operations in high-profit regions  
-- Reprice low-margin product categories  
-- Launch campaigns during peak demand months  
-- Focus retention efforts on top customer segments  
-- Improve supply chain efficiency in weak-performing regions  
+- Expand focus in high-margin regions  
+- Improve pricing strategy for low-margin categories  
+- Launch campaigns during peak-performing months  
+- Strengthen retention for top customer segments  
+- Review cost structure in weak-profit geographies  
 
 ---
 
 # 🛠 Tools Used
 
 - Tableau Desktop  
-- Data Visualization  
+- Tableau Public  
 - Dashboard Design  
 - KPI Reporting  
 - Trend Analysis  
@@ -80,7 +81,7 @@ Tracked areas where high sales did not translate into strong profits.
 
 # 📂 Folder Structure
 
-```text id="5a4v6p"
+```text
 Business-360/
  ├── screenshots/
  │   └── business-360.jpg
