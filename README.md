@@ -1,19 +1,19 @@
 # 📊 Tableau Analytics Projects Portfolio
 
-A premium collection of Interactive Tableau dashboard portfolio featuring business intelligence, retail, entertainment and environmental analytics.
+A premium portfolio of interactive Tableau dashboards built across multiple industries including business intelligence, retail, entertainment, environment, travel, sports, and publishing analytics.
 
-This repository showcases practical dashboarding capabilities including KPI reporting, trend analysis, storytelling, and executive-level business insights.
+This repository demonstrates dashboard development, KPI reporting, storytelling, trend analysis, and decision-support visualization using Tableau.
 
 ---
 
 # 🚀 Portfolio Highlights
 
-✅ Interactive Tableau Dashboards  
-✅ Cross-Industry Analytics Projects  
+✅ 9 Interactive Tableau Dashboards  
+✅ Cross-Industry Analytics Portfolio  
 ✅ Executive KPI Reporting  
-✅ Business Storytelling with Visuals  
-✅ Strong Dashboard Design Skills  
-✅ Insight-Driven Decision Making
+✅ Business Storytelling with Data  
+✅ Advanced Dashboard Design  
+✅ Strong Data Visualization Skills
 
 ---
 
@@ -25,8 +25,8 @@ This repository showcases practical dashboarding capabilities including KPI repo
 - KPI Reporting  
 - Filters & Parameters  
 - Trend Analysis  
-- Storytelling with Data  
-- Data Visualization  
+- Data Storytelling  
+- Interactive Visualization  
 - Business Intelligence  
 
 ---
@@ -39,17 +39,27 @@ This repository showcases practical dashboarding capabilities including KPI repo
   <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="900">
 </p>
 
-Executive dashboard for sales, profitability, regional performance, and customer trends.
+Executive dashboard for sales, profitability, regional trends, and customer performance.
 
 ---
 
-## 🛒 Superstore Insights
+## ⚽ UEFA Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Superstore-Insights/screenshots/superstore-insights.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/UEFA-Analytics/screenshots/uefa.jpg" width="900">
 </p>
 
-Retail dashboard analyzing sales, profit, quantity, state trends, and category performance.
+Football analytics dashboard covering club performance, goals, rankings, and player trends.
+
+---
+
+## ✈️ TripAdvisor Insights
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/TripAdvisor-Insights/screenshots/tripadvisor.jpg" width="900">
+</p>
+
+Travel analytics dashboard exploring ratings, hotel trends, customer segments, and satisfaction.
 
 ---
 
@@ -63,31 +73,36 @@ Tracks movies vs TV shows, ratings, genres, release trends, and content distribu
 
 ---
 
-## 🌍 Global CO2 Emissions
+## 🛒 Superstore Insights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Global-CO2-Emissions/screenshots/global-co2-emissions.jpg" width="900">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Superstore-Insights/screenshots/superstore-insights.jpg" width="900">
 </p>
 
-Analyzes emissions by country, population, per-capita contribution, and global climate trends.
+Retail dashboard analyzing sales, profit, quantity, category performance, and state trends.
 
 ---
 
-# 📂 Current Project Portfolio
+# 📂 Complete Project Portfolio
 
 | Project Name | Domain |
 |-------------|--------|
 | Business 360 | Business Intelligence |
 | Superstore Insights | Retail |
 | Netflix Content Analytics | Entertainment |
-| Global CO2 Emissions | Environment |
+| Global CO2 Emissions | Sustainability |
+| UEFA Analytics | Sports |
+| TripAdvisor Insights | Travel |
+| IMDb Analytics | Entertainment |
+| GoodReads Analytics | Publishing |
+| Friends Analytics | TV Analytics |
 
 ---
 
 # 🎯 What This Portfolio Demonstrates
 
 - Tableau Dashboard Development  
-- Interactive Visualization  
+- Interactive Data Visualization  
 - Executive Reporting  
 - Cross-Domain Analytics  
 - Business Decision Support  
