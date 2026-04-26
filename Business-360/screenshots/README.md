@@ -83,7 +83,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-# 💡 Specific Recommendations
+# 💡 Recommendations
 
 ## Revenue Growth
 
