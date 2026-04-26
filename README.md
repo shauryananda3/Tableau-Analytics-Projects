@@ -107,9 +107,19 @@ Book analytics dashboard exploring authors, ratings, categories, and publishing 
 
 ## 📺 Friends Analytics
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Friends-Analytics/screenshots/friends.jpg" width="900">
+</p>
+
 TV series dashboard analyzing episodes, seasons, ratings, and popularity trends.
 
+---
+
 ## 🌍 Global CO2 Emissions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Global-CO2-Emissions/screenshots/global-co2-emissions.jpg" width="900">
+</p>
 
 Environmental dashboard analyzing emissions by country, population, and climate trends.
 
