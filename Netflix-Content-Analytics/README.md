@@ -41,7 +41,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-# 🔍 Key Insights (Based on Dashboard)
+# 🔍 Key Insights
 
 ## 🎥 Content Mix Insights
 
@@ -77,7 +77,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-# 💡 Specific Recommendations (Dashboard Driven)
+# 💡 Recommendations
 
 ## Content Strategy
 
