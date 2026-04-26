@@ -1,8 +1,8 @@
 # 📊 Tableau Analytics Projects Portfolio
 
-A premium collection of interactive Tableau dashboards built across multiple industries including business intelligence, retail, entertainment, environment, travel, sports, and consumer analytics.
+A premium collection of interactive Tableau dashboards built across multiple industries including business intelligence, retail, entertainment, environment, and consumer analytics.
 
-This repository showcases end-to-end dashboarding capabilities including KPI reporting, trend analysis, executive storytelling, and decision-support dashboards.
+This repository showcases practical dashboarding capabilities including KPI reporting, trend analysis, storytelling, and executive-level business insights.
 
 ---
 
@@ -11,9 +11,9 @@ This repository showcases end-to-end dashboarding capabilities including KPI rep
 ✅ Interactive Tableau Dashboards  
 ✅ Cross-Industry Analytics Projects  
 ✅ Executive KPI Reporting  
-✅ Dashboard Storytelling  
-✅ Business Insights & Trend Analysis  
-✅ Strong Data Visualization Skills
+✅ Business Storytelling with Visuals  
+✅ Strong Dashboard Design Skills  
+✅ Insight-Driven Decision Making
 
 ---
 
@@ -23,8 +23,8 @@ This repository showcases end-to-end dashboarding capabilities including KPI rep
 - Tableau Public  
 - Dashboard Design  
 - KPI Reporting  
-- Trend Analysis  
 - Filters & Parameters  
+- Trend Analysis  
 - Storytelling with Data  
 - Data Visualization  
 - Business Intelligence  
@@ -36,40 +36,40 @@ This repository showcases end-to-end dashboarding capabilities including KPI rep
 ## 💼 Business 360
 
 <p align="center">
-  <img src="Business%20360/screenshots/business-360.jpg" width="900">
+  <img src="Business-360/screenshots/business-360.jpg" width="900">
 </p>
 
-Executive business dashboard for monitoring sales, profit, customer trends, and regional performance.
+Executive dashboard for sales, profitability, regional performance, and customer trends.
 
 ---
 
 ## 🛒 Superstore Insights
 
 <p align="center">
-  <img src="Superstore%20Insights/screenshots/superstore-insights.jpg" width="900">
+  <img src="Superstore-Insights/screenshots/superstore-insights.jpg" width="900">
 </p>
 
-Retail dashboard analyzing sales, profit, quantity, category performance, and state trends.
+Retail dashboard analyzing sales, profit, quantity, state trends, and category performance.
 
 ---
 
 ## 🎬 Netflix Content Analytics
 
 <p align="center">
- <img src="Netflix%20Content%20Analytics/screenshots/netflix.jpg" width="900">
+  <img src="Netflix-Content-Analytics/screenshots/netflix.jpg" width="900">
 </p>
 
-Tracks movies vs TV shows, genres, ratings, release trends, and global content distribution.
+Tracks movies vs TV shows, ratings, genres, release trends, and content distribution.
 
 ---
 
 ## 🌍 Global CO2 Emissions
 
 <p align="center">
-  <img src="Global%20CO2%20Emissions/screenshots/global-co2-emissions.jpg" width="900">
+  <img src="Global-CO2-Emissions/screenshots/global-co2-emissions.jpg" width="900">
 </p>
 
-Environmental dashboard analyzing emissions by country, population, per-capita impact, and global trends.
+Analyzes emissions by country, population, per-capita contribution, and global climate trends.
 
 ---
 
@@ -87,11 +87,11 @@ Environmental dashboard analyzing emissions by country, population, per-capita i
 # 🎯 What This Portfolio Demonstrates
 
 - Tableau Dashboard Development  
+- Interactive Visualization  
 - Executive Reporting  
 - Cross-Domain Analytics  
-- Interactive Visualization  
-- Data Storytelling  
 - Business Decision Support  
+- Storytelling with Data  
 - Analytical Thinking  
 
 ---
@@ -104,3 +104,4 @@ Environmental dashboard analyzing emissions by country, population, per-capita i
 
 ---
 
+# ⭐ Explore the dashboards and connect for opportunities.
