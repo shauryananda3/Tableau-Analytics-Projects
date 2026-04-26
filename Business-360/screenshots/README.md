@@ -1,88 +1,142 @@
-# 💼 Business 360 | Tableau Dashboard
+# 💼 Business 360 Analytics
 
-A premium Tableau dashboard built to provide a 360-degree executive view of business performance across sales, profitability, customers, products, and regional trends.
+A professional Tableau analytics project designed to evaluate business performance across sales, profitability, customer segments, product categories, and regional operations.
 
-This project demonstrates how interactive dashboards can help leadership teams monitor KPIs, identify growth opportunities, and drive data-backed strategic decisions.
-
----
-
-# 🎯 Project Objective
-
-To design an executive business intelligence dashboard that enables stakeholders to:
-
-- Track overall sales and profitability  
-- Compare region-wise business performance  
-- Analyze customer segment contribution  
-- Monitor category and product trends  
-- Identify underperforming areas  
-- Support faster strategic decisions through data
+This dashboard helps business leaders, managers, and analysts understand revenue movement, identify profitable growth areas, and support data-driven strategic decisions.
 
 ---
 
-# 📊 Dashboard Preview
+# 📌 Business Objective
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="950">
-</p>
+Organizations need visibility into sales performance, profitability drivers, customer contribution, and regional trends to improve decision-making and business strategy.
 
----
+This dashboard enables stakeholders to:
 
-# 📌 Key KPIs Tracked
-
-- Total Sales  
-- Total Profit  
-- Profit Margin %  
-- Regional Contribution  
-- Top Categories  
-- Customer Segment Performance  
-- Monthly / Yearly Trends  
+- Analyze overall sales and profit performance  
+- Monitor region-wise business growth  
+- Compare category and product performance  
+- Identify profitable customer segments  
+- Detect underperforming areas  
+- Support strategic planning using analytics
 
 ---
 
-# 🔍 Key Insights Generated
+# 📊 Dashboard Coverage
 
-### 📈 Sales Performance
-Identified top-performing periods and revenue growth patterns across time.
+## Business Performance Analytics
 
-### 🌍 Regional Analysis
-Compared regions/states to highlight high-growth and low-profit areas.
+- Revenue overview  
+- Profitability trends  
+- Sales growth by period  
+- Regional contribution analysis  
+- Monthly / yearly trend reporting  
 
-### 👥 Customer Segments
-Measured contribution from Consumer, Corporate, and Home Office segments.
+## Operational Insights
 
-### 🛍 Category Trends
-Tracked category-wise sales and profitability to optimize portfolio mix.
-
-### 💰 Margin Visibility
-Highlighted areas where revenue was high but margins remained weak.
-
----
-
-# 💡 Business Recommendations
-
-- Expand focus in high-margin regions  
-- Improve pricing strategy for low-margin categories  
-- Launch campaigns during peak-performing months  
-- Strengthen retention for top customer segments  
-- Review cost structure in weak-profit geographies  
+- Product category performance  
+- Customer segment contribution  
+- State / region comparison  
+- Margin analysis  
+- Performance trend breakdown  
 
 ---
 
-# 🛠 Tools Used
+# 🔍 Key Insights
+
+## Revenue Insights
+
+- High-performing months contributed strongly to annual sales.  
+- Regional performance varied significantly across markets.  
+- Strong sales concentration was observed in select geographies.  
+- Revenue growth trends highlighted expansion opportunities.  
+- Seasonal patterns supported campaign planning.
+
+## Profitability Insights
+
+- High sales did not always translate into high profit.  
+- Certain categories generated stronger margins than others.  
+- Customer segments varied in profitability contribution.  
+- Regional margin gaps revealed operational inefficiencies.  
+- Data-backed insights improved pricing and planning strategy.
+
+---
+
+# 🛠 Tools & Skills Used
 
 - Tableau Desktop  
 - Tableau Public  
+- Calculated Fields  
 - Dashboard Design  
+- Business Intelligence  
 - KPI Reporting  
-- Trend Analysis  
+- Interactive Filters  
+- Data Visualization  
 - Executive Reporting  
+- Trend Analysis  
 
 ---
 
-# 📂 Folder Structure
+# 📸 Dashboard Screenshots
 
-```text
-Business-360/
- ├── screenshots/
- │   └── business-360.jpg
- └── README.md
+## 💼 Business 360 Executive Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="900">
+</p>
+
+Provides a complete view of sales, profit, customer performance, and regional business trends.
+
+---
+
+## 📈 Revenue & Profit Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="900">
+</p>
+
+Tracks revenue growth, profitability movement, and performance patterns across time.
+
+---
+
+## 🌍 Regional Performance Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shauryananda3/Tableau-Analytics-Projects/main/Business-360/screenshots/business-360.jpg" width="900">
+</p>
+
+Analyzes state / region contribution, profitable markets, and growth opportunities.
+
+---
+
+# 🎯 Business Impact
+
+This dashboard helps business stakeholders:
+
+- Improve strategic planning decisions  
+- Identify profitable markets and categories  
+- Compare sales and margin performance  
+- Understand customer segment contribution  
+- Detect weak-performing regions  
+- Enable smarter growth decisions
+
+---
+
+# 🚀 What This Project Demonstrates
+
+- Business intelligence understanding  
+- KPI dashboard creation  
+- Multi-region performance reporting  
+- Trend analysis capability  
+- Executive reporting mindset  
+- Business storytelling with visuals  
+- Revenue strategy analytics
+
+---
+
+# 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shaurya-nanda/  
+- Portfolio: https://shauryananda3.github.io/  
+- GitHub: https://github.com/shauryananda3
+
+---
