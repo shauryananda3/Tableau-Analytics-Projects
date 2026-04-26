@@ -56,7 +56,7 @@ Retail dashboard analyzing sales, profit, quantity, category performance, and st
 ## 🎬 Netflix Content Analytics
 
 <p align="center">
-  <img src="Netflix%20Content%20Analytics/screenshots/netflix.jpg" width="900">
+ <img src="Netflix%20Content%20Analytics/screenshots/netflix.jpg" width="900">
 </p>
 
 Tracks movies vs TV shows, genres, ratings, release trends, and global content distribution.
