@@ -41,7 +41,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-# 🔍 Key Insights (Based on Dashboard)
+# 🔍 Key Insights 
 
 ## 💰 Profit vs Sales Insights
 
@@ -83,7 +83,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-# 💡 Specific Recommendations (Dashboard Driven)
+# 💡 Specific Recommendations
 
 ## Revenue Growth
 
